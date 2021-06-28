@@ -13,3 +13,4 @@ Projeto desenvolvido durante a NLW#6 realizado pela Rocketseat. Foi desenvolvido
 - Styled - components
 - ReactJs
 # LetmeAsk_perguntasERespostas_projetoNlw6
+# letMeAsk_salasDePerguntasERespostas
